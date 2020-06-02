@@ -18,7 +18,7 @@ class App extends Component {
     }
 
     async getData() {
-        const url = "https://api.open-notify.org/iss-now.json";
+        const url = "http://api.open-notify.org/iss-now.json";
         const response = await fetch(url);
         const location = await response.json();
 
