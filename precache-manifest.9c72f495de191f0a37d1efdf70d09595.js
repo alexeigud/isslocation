@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29d37578a88a4fd4b2fdf42e38ec126a",
+    "revision": "8990cfee10f4fc14aed823abb4524d50",
     "url": "/isslocation/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/isslocation/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "01cb3906a18237ab24d4",
+    "revision": "b9504df38d08c6aeb4ab",
     "url": "/isslocation/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/isslocation/static/js/2.7c83020b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01cb3906a18237ab24d4",
-    "url": "/isslocation/static/js/main.84c903a1.chunk.js"
+    "revision": "b9504df38d08c6aeb4ab",
+    "url": "/isslocation/static/js/main.8e7e07cb.chunk.js"
   },
   {
     "revision": "9646f9bf540066adf70e",
