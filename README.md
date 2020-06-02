@@ -1,4 +1,4 @@
-Until I find a solution I cannot display mixed content. I am hosting the app in GitHub Pages over HTTPS and trying to fetch and display API JSON content over HTTP. 
+Until I find a solution I cannot display mixed content. I am hosting the app in GitHub Pages over HTTPS and trying to fetch and display API JSON content over HTTP. See: https://developer.mozilla.org/en-US/docs/Web/Security/Mixed_content
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
